@@ -1,0 +1,126 @@
+.heading {
+  font-size: 60px;
+  color: red;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Proza Libre", sans-serif;
+}
+
+h2.movie-list {
+  font-size: 30px;
+}
+.big-container {
+  background-color: red;
+}
+.movie-list {
+  text-align: center;
+  font-family: "Monoton", cursive;
+}
+
+.container {
+  background-color: cyan;
+  width: 100%;
+  height: 410px;
+  position: relative;
+}
+
+hr {
+  border: 1px solid brown;
+  border-collapse: collapse;
+}
+.anime-movies,
+.hindi-movies {
+  font-family: "Monoton", cursive;
+  padding: 20p;
+  margin: 20px;
+  font-size: 33px;
+}
+
+.hindi-list {
+  font-family: "Pacifico", cursive;
+  font-weight: normal;
+  font-size: 20px;
+  padding: 10px;
+  margin: 40px;
+}
+
+.anime-list {
+  font-family: "Pacifico", cursive;
+  font-weight: normal;
+  font-size: 20px;
+  padding: 10px;
+  margin: 30px;
+}
+.container-a {
+  display: inline-block;
+  width: 50%;
+  left: 0;
+  padding: 20px;
+  position: absolute;
+}
+.container-b {
+  display: inline-block;
+  width: 50%;
+  right: 0;
+  padding: 20px;
+  position: absolute;
+}
+
+.buffet-section {
+  background-color: yellow;
+  text-align: center;
+  margin-top: 0;
+  padding: 20px;
+}
+
+.buffet-heading {
+  font-weight: bold;
+  font-size: 33px;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  font-family: "Black Ops One", cursive;
+}
+
+.buffet-list {
+  font-family: "Allura", cursive;
+  font-size: 25px;
+  font-weight: bold;
+  list-style: none;
+  padding: 0;
+  display: inline-block;
+  margin: 10px;
+}
+
+.big-container {
+  background-color: paleturquoise;
+}
+
+footer {
+  text-align: center;
+}
+
+footer .copyright {
+  display: inline-block;
+  font-weight: bold;
+  text-align: center;
+  background-color: lightblue;
+  font-family: bold;
+  font-size: 10px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+  padding: 10px;
+  border-radius: 40px;
+}
+
+.a,
+.b {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Cinzel", serif;
+  padding: 2px;
+  margin: 20px;
+  background-color: skyblue;
+  width: 100%;
+  margin: 1px;
+}
